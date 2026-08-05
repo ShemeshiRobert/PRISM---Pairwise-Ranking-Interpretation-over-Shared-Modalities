@@ -1,1 +1,1 @@
-# PRISM---Pairwise-Ranking-Interpretation-over-Shared-Modalities
+# PRISM-FT --- Pairwise-Ranking-Interpretation-over-Shared-Modalities
